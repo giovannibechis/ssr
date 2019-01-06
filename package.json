@@ -36,5 +36,13 @@
     "webpack-dev-server": "2.8.2",
     "webpack-merge": "4.1.0",
     "webpack-node-externals": "1.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannibechis/ssr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giovannibechis/ssr/issues"
+  },
+  "homepage": "https://github.com/giovannibechis/ssr#readme"
 }
